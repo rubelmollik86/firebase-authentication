@@ -45,7 +45,7 @@ function App() {
       )}
 
       <h2>User Name: {user.displayName}</h2>
-      <h4>I Know Your email: {user.email}</h4>
+      <h4>I Know Your email Adderss: {user.email}</h4>
       <img src={user.photoURL} alt="user" />
     </div>
   );
